@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning [Swift](https://apple.com/swift/)
 - 👨‍💻 I’m currently studing to be a UI Developer
-- 😁 Fun fact: I'am 15 years old and i live in Brazil
+- 😁 Fun fact: I'am 17 years old and i live in Brazil
 - ☁️ Dream: Work as a developer at Apple
 
  ##
