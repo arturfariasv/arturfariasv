@@ -1,4 +1,4 @@
-### Hi there I'am Artur 👋 
+### Hi there, I'am Artur 👋 
 
 #### I'm just a young person wanting to fulfill my dream of being a Front-end Enginer.
 
