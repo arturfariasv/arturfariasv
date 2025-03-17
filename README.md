@@ -1,16 +1,13 @@
-### Hi there, I'am Artur 👋 
+### Hey there, I'm Artur 👋 
 
-#### I'm just a young person wanting to fulfill my dream of being a Front-end Enginer.
+💻 Aspiring Software Developer | 🎓 Studying Computer Science
+🚀 Exploring SwiftUI, ESP32, and other tech projects
+⚡ Passionate about technology, automation, machine learning and problem-solving
 
-- 🌱 I’m currently learning [Swift](https://apple.com/swift/)
-- 👨‍💻 I’m currently studing to be a UI Developer
-- 😁 Fun fact: I'am 17 years old and i live in Brazil
-- ☁️ Dream: Work as a developer at Apple
+📌 What I’m up to:
+	•	Developing apps for iOS with SwiftUI 🍏
+	•	Experimenting with embedded systems (ESP32) 🤖
+	•	Always learning and looking for new challenges 💡
 
- ##
-
-#### Contact me!
-
-<div>
-  <a href="https://t.me/ArturCVF" target="_blank"><img scr="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" ></a>
-</div>
+📫 Let’s connect!
+🔗 LinkedIn | ✉️ arturfariasveiga@icloud.com
